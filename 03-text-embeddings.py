@@ -1,4 +1,4 @@
-from langchain_aws import BedrockEmbeddings
+from langchain.embeddings import BedrockEmbeddings
 
 # Initialize the Bedrock Embeddings model (using Titan)
 embeddings = BedrockEmbeddings(model_id="amazon.titan-embed-text-v1")
