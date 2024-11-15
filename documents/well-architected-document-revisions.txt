@@ -1,0 +1,108 @@
+
+Major update
+
+Best practices were updated with new guidance in Reliability, Security, Operational excellence, Sustainability, and Performance efficiency. The Reliability pillar received a large-scale refresh and update to many best practices. Guidance across Security and Operational excellence has been updated and refined with new service and generative AI suggestions. Sustainability received multiple updates based on AWS services and a new best practice.
+
+November 6, 2024
+
+Major update
+
+Large-scale best practice updates were made throughout the pillars. Security and cost both received new best practices.
+
+June 27, 2024
+
+Major update
+
+Major pillar updates.
+
+October 3, 2023
+
+Major update
+
+Best practices updated with prescriptive guidance and new best practices added. New questions added to the Security and Cost Optimization pillars.
+
+April 10, 2023
+
+Minor update
+
+Added definition for level of effort and updated best practices in the appendix.
+
+October 20, 2022
+
+Major update
+
+Added Sustainability Pillar and updated links.
+
+December 2, 2021
+
+Major update
+
+Sustainability Pillar added to the framework.
+
+November 20, 2021
+
+Minor update
+
+Removed non-inclusive language.
+
+April 22, 2021
+
+Minor update
+
+Fixed numerous links.
+
+March 10, 2021
+
+Minor update
+
+Minor editorial changes throughout.
+
+July 15, 2020
+
+Major update
+
+Review and rewrite of most questions and answers.
+
+July 8, 2020
+
+Whitepaper updated
+
+Addition of AWS Well-Architected Tool, links to AWS Well-Architected Labs, and AWS Well-Architected Partners, minor fixes to enable multiple language version of framework.
+
+July 1, 2019
+
+Whitepaper updated
+
+Review and rewrite of most questions and answers, to ensure questions focus on one topic at a time. This caused some previous questions to be split into multiple questions. Added common terms to definitions (workload, component etc). Changed presentation of question in main body to include descriptive text.
+
+November 1, 2018
+
+Whitepaper updated
+
+Updates to simplify question text, standardize answers, and improve readability.
+
+June 1, 2018
+
+Whitepaper updated
+
+Operational Excellence moved to front of pillars and rewritten so it frames other pillars. Refreshed other pillars to reflect evolution of AWS.
+
+November 1, 2017
+
+Whitepaper updated
+
+Updated the Framework to include operational excellence pillar, and revised and updated the other pillars to reduce duplication and incorporate learnings from carrying out reviews with thousands of customers.
+
+November 1, 2016
+
+Minor updates
+
+Updated the Appendix with current Amazon CloudWatch Logs information.
+
+November 1, 2015
+
+Initial publication
+
+AWS Well-Architected Framework published.
+
+October 1, 2015

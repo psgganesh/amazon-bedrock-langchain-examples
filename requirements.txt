@@ -1,0 +1,5 @@
+langchain==0.0.335
+langchain-aws
+boto3
+faiss-cpu
+pypdf==3.16.2
